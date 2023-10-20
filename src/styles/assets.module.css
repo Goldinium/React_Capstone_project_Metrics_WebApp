@@ -1,0 +1,23 @@
+p {
+  font-size: medium;
+  margin: 0;
+  padding: 0;
+}
+
+.assetsWrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.assetA,
+.assetB {
+  text-align: center;
+}
+
+.assetA {
+  background-color: rgb(236, 222, 222);
+}
+
+.assetB {
+  background-color: rgb(114, 114, 114);
+}
