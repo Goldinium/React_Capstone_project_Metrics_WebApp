@@ -42,5 +42,4 @@ const symbolSlice = createSlice({
   },
 });
 
-// export const { reserveRocket, cancelReserveRocket } = assetsSlice.actions;
 export default symbolSlice.reducer;
