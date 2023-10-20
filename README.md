@@ -7,7 +7,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Live Demo ](#LiveDemo-)
-    - [Presentation video](#Presentation)
+    - [Presentation video](#presentation-video-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -55,8 +55,8 @@
 
 ### Presentation video <a name="presentation-video-"></a>
 
-[https://drive.google.com/file/d/1PcvHBwlQODZr2-4mvNLV2EO1uKIrruVQ/view?usp=share_link
-](https://drive.google.com/file/d/1PcvHBwlQODZr2-4mvNLV2EO1uKIrruVQ/view?usp=share_link
+[https://drive.google.com/file/d/1kk2mLsVDr9HKSfuVLXPntNfHCvjLy4Nd/view?usp=sharing
+](https://drive.google.com/file/d/1kk2mLsVDr9HKSfuVLXPntNfHCvjLy4Nd/view?usp=sharing
 )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
