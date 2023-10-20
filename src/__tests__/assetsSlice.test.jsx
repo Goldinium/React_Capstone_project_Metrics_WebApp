@@ -32,14 +32,11 @@ describe('assetsSlice', () => {
     it('Should create an action to get Assets', async () => {
       const mockPayload = [{ id: 'bitcoin' }, { name: 'Bitcoin' }];
       axios.get.mockResolvedValueOnce({ data: mockPayload });
-
       await store.dispatch(getAssets());
-
       const actions = store.getActions();
       expect(actions[0].type).toBe(getAssets.pending.type);
       expect(actions[1].type).toBe(getAssets.rejected.type);
       await store.dispatch(getAssets.fulfilled(mockPayload));
-
       expect(actions[2].type).toBe(getAssets.fulfilled.type);
       expect(actions[2].payload).toEqual(mockPayload);
     });
