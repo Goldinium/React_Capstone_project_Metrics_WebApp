@@ -21,11 +21,11 @@
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖  Math Magicians <a name="--Crypto-Metrics-"></a>
+# 📖  Crypto-Metrics <a name="--Crypto-Metrics-"></a>
 
 > A web applet that fetch cryptocurrency prices in real time built using React and Redux 
 
-![](calculator.png)
+![](img/Crypto-Metrics.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 - Technology: HTML, CSS & JS, REACT & REDUX
