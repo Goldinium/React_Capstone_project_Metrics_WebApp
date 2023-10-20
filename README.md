@@ -46,11 +46,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Demo <a name="Live-Demo"></a>
-[https://crypto-metrics-rybc.onrender.com](https://crypto-metrics-rybc.onrender.com)
-
--Or
 
 [https://crypto-metrics-rybc.onrender.com](https://crypto-metrics-rybc.onrender.com)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
