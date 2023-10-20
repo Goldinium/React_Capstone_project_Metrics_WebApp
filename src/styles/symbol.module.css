@@ -10,11 +10,11 @@ p {
 }
 
 .keyValuePairA {
-  background-color: brown;
+  background-color: rgb(236, 222, 222);
 }
 
 .keyValuePairB {
-  background-color: rgb(197, 57, 57);
+  background-color: rgb(114, 114, 114);
 }
 
 .key,
