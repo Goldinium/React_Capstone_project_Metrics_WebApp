@@ -112,6 +112,10 @@ Test for eslint errors
 npx eslint .
 ```
 
+Test for mocks and snapshots
+```sh
+npm run test
+```
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
