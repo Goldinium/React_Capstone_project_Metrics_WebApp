@@ -46,8 +46,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Demo <a name="Live-Demo"></a>
-[https://math-magicians-applet.onrender.com](https://math-magicians-applet.onrender.com)
-
+[https://crypto-metrics-rybc.onrender.com](https://crypto-metrics-rybc.onrender.com)
+-Or
+[https://crypto-metrics-rybc.onrender.com](https://crypto-metrics-rybc.onrender.com)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
@@ -158,7 +159,7 @@ Thank you for your support and for being a part of this journey!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Currently me and myself.
+Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
