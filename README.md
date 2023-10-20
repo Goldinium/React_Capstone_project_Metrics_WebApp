@@ -7,6 +7,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Live Demo ](#LiveDemo-)
+    - [Presentation video](#Presentation)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -48,6 +49,15 @@
 ### Live Demo <a name="Live-Demo"></a>
 
 [https://crypto-metrics-rybc.onrender.com](https://crypto-metrics-rybc.onrender.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Presentation video <a name="Presentation"></a>
+
+[https://drive.google.com/file/d/1PcvHBwlQODZr2-4mvNLV2EO1uKIrruVQ/view?usp=share_link
+](https://drive.google.com/file/d/1PcvHBwlQODZr2-4mvNLV2EO1uKIrruVQ/view?usp=share_link
+)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
